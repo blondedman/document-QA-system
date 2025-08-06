@@ -1,4 +1,3 @@
-os
 pypdf
 requests
 tempfile
