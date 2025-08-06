@@ -1,6 +1,5 @@
 pypdf
 requests
-tempfile
 streamlit
 langchain
 langchain-community
